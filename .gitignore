@@ -1,0 +1,15 @@
+# Model checkpoints / weights
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated samples
+generated*.png
+conditional_generated*.png
+
+# Local Git metadata workaround
+.repo.git/
